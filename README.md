@@ -1,2 +1,5 @@
 # ConflictoGit
 ConflictoGit
+
+rama main
+
